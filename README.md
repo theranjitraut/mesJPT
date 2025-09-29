@@ -1,1 +1,2 @@
-# mesJPT - A simple LLM prototype
+# mesJPT - A Decoder-based Language Model
+
